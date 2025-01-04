@@ -9,13 +9,13 @@ public class M1003 {
         InputStreamReader ir = new InputStreamReader(System.in);
         BufferedReader in = new BufferedReader(ir);
 
-        int soma, A, B;
+        int PROD, A, B;
 
         A = Integer.parseInt(in.readLine());
         B = Integer.parseInt(in.readLine());
-        soma = A + B;
+        PROD = A * B;
 
-        System.out.println("SOMA = " + soma);
+        System.out.println("PROD = " + PROD);
 
     }
 
