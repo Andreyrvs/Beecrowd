@@ -16,7 +16,7 @@ public class Main {
 
         X = A + B;
 
-        System.out.printf("X = %d\n", X);
+        System.out.printf("X = %.1f%n", X);
 
     }
 
