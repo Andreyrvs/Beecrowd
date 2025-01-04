@@ -1,6 +1,6 @@
 import java.io.IOException;
 
-class Main {
+public class M1000 {
 
     public static void main(String[] args) throws IOException {
 
