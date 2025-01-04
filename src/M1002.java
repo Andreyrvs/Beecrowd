@@ -15,7 +15,7 @@ public class M1002 {
         raio = Double.parseDouble(in.readLine());
         area = n * Math.pow(raio, 2);
 
-        System.out.printf("A = %.4f\n", area);
+        System.out.printf("A=%.4f%n", area);
 
     }
 
